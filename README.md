@@ -1,6 +1,39 @@
-# Atlas-jekyll-theme
-![Preview](./atlas-normal.png)
+> choiiis' github blog theme 사용 허락해주신 choiiis님께 감사드립니다.  
 
-## How to use
-  - Delete the markdown files from \_posts and add your blog posts in the folder
-  - Change the details in \_config.yml
+### 🦥 `Jumy Blog`
+
+📎 **블로그 바로 가기**
+
+[`https://kdjun97.github.io/`](https://kdjun97.github.io/)
+
+### Blog History
+
+[Ver 1.0 - 🐻‍❄️ Ice Bear Blog!]  
+
+<details>
+<summary>Open/Close</summary><br>
+
+<img src="/assets/images/post_img/readme/old2.JPG" alt="ice-bear2"><br>
+<img src="/assets/images/post_img/readme/old1.JPG" alt="ice-bear1"><br>
+<img src="/assets/images/post_img/readme/old3.JPG" alt="ice-bear3"><br>
+
+</details>  
+
+[Ver 2.0 - choiiis' blog theme!]  
+
+<br>
+
+> 🌴 **목차**
+
+┌ `Algorithm`  
+├ `Automation Solution`  
+├ `Computer Vision`  
+├ `Docker`  
+├ `Flutter`  
+├ `Git/Github`  
+├ `IoT`  
+├ `Kotlin`  
+├ `Linux`  
+├ `Python`  
+├ `Web`  
+└ `Etc`  
