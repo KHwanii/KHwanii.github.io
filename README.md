@@ -1,10 +1,10 @@
 > choiiis' github blog theme 사용 허락해주신 choiiis님께 감사드립니다.  
 
-### 🦥 `Jumy Blog`
+### 🦥 `Khwanii Blog`
 
 📎 **블로그 바로 가기**
 
-[`https://kdjun97.github.io/`](https://kdjun97.github.io/)
+[`https://khwanii.github.io/`](https://khwanii.github.io/)
 
 ### Blog History
 
